@@ -1,0 +1,62 @@
+{
+    "jobs": [{
+            "id": 1,
+            "name": "Flutter UI/UX",
+            "time": "Full-Time",
+            "cumpani": "Nike inc",
+            "salary": "$40/h",
+            "color": "#000000",
+            "image": "assets/images/nike.jpg"
+        },
+
+        {
+            "id": 2,
+            "nam": "Flutter Devloper",
+            "time": "part-time",
+            "cumpani": "Amazon inc.",
+            "salary": "$60",
+            "color": "#000000",
+            "image": "assets/images/amazon.jpg"
+        },
+
+        {
+            "id": 3,
+            "nam": "Lead UI Designer",
+            "time": "Full-time",
+            "cumpani": "Apple inc.",
+            "salary": "$80",
+            "color": "#000000",
+            "image": "assets/images/iphone.jpg"
+        },
+
+        {
+            "id": 3,
+            "nam": "UI/Ux Devlopper",
+            "time": "part-time",
+            "cumpani": "Google LLC.",
+            "salary": "$85",
+            "color": "#000000",
+            "image": "assets/images/google.jpg"
+        },
+
+        {
+            "id": 4,
+            "nam": "Java Devloper",
+            "time": "Full-time",
+            "cumpani": "Swiggy inc.",
+            "salary": "$45",
+            "color": "#000000",
+            "image": "assets/images/swiggy.jpg"
+        },
+
+        {
+            "id": 5,
+            "nam": "Product Desingner",
+            "time": "part-time",
+            "cumpani": "UberEats inc.",
+            "salary": "$55",
+            "color": "#000000",
+            "image": "assets/images/uberEats2.jpg"
+        }
+    ]
+}
