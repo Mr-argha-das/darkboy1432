@@ -1,0 +1,44 @@
+[Script Info]
+Title: THE BIRTH OF CREATION - INSTAGRAM REEL (9:16)
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ReelHindi,Noto Sans Devanagari,46,&H00F2F7FF,&H000000FF,&H00120906,&HA805040E,-1,0,0,0,100,100,0,0,1,3.2,2.8,2,88,128,315,1
+Style: TitleTop,Cinzel,52,&H00C8ECFF,&H000000FF,&H00120905,&H88000000,-1,0,0,0,100,100,11,0,1,2.0,3.2,5,40,40,40,1
+Style: TitleMain,Cinzel,108,&H00A8E0FF,&H000000FF,&H00120905,&H90000000,-1,0,0,0,100,100,12,0,1,2.8,4.2,5,40,40,40,1
+Style: TitleSub,Cinzel,24,&H00E4F1FF,&H000000FF,&H000D0805,&H88000000,0,0,0,0,100,100,3.5,0,1,1.6,2.2,5,40,40,40,1
+Style: EndTop,Cinzel,46,&H00C8ECFF,&H000000FF,&H00120905,&H88000000,-1,0,0,0,100,100,10,0,1,1.8,3.0,5,40,40,40,1
+Style: EndMain,Cinzel,96,&H00A8E0FF,&H000000FF,&H00120905,&H90000000,-1,0,0,0,100,100,11,0,1,2.4,3.8,5,40,40,40,1
+Style: EndSub,Cinzel,22,&H00E4F1FF,&H000000FF,&H000D0805,&H88000000,0,0,0,0,100,100,3.0,0,1,1.4,2.0,5,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.70,0:00:05.70,TitleTop,,0,0,0,,{\pos(540,775)\fad(850,1100)}THE BIRTH OF
+Dialogue: 1,0:00:00.90,0:00:05.70,TitleMain,,0,0,0,,{\pos(540,870)\fad(900,1100)}CREATION
+Dialogue: 1,0:00:01.60,0:00:05.70,TitleSub,,0,0,0,,{\pos(540,965)\fad(900,1100)}BEFORE TIME  ·  BEFORE SPACE  ·  BEFORE LIFE
+Dialogue: 1,0:01:26.40,0:01:29.60,EndTop,,0,0,0,,{\pos(540,835)\fad(750,900)}THE BIRTH OF
+Dialogue: 1,0:01:26.55,0:01:29.60,EndMain,,0,0,0,,{\pos(540,920)\fad(750,900)}CREATION
+Dialogue: 1,0:01:26.95,0:01:29.60,EndSub,,0,0,0,,{\pos(540,1005)\fad(700,900)}BEFORE TIME  ·  BEFORE SPACE  ·  BEFORE LIFE
+Dialogue: 0,0:00:00.45,0:00:05.54,ReelHindi,,0,0,0,,{\fad(180,180)}जब न समय था… न आकाश।\Nन धरती थी, न जीवन।\Nन कोई दिशा… न कोई सीमा।
+Dialogue: 0,0:00:05.54,0:00:09.54,ReelHindi,,0,0,0,,{\fad(180,180)}तब क्या था?\Nक्या सच में कुछ भी नहीं था?
+Dialogue: 0,0:00:10.35,0:00:14.95,ReelHindi,,0,0,0,,{\fad(180,180)}हिंदू पौराणिक परंपरा में,\Nउस अनंत जलराशि के बीच था क्षीर सागर…
+Dialogue: 0,0:00:14.95,0:00:19.55,ReelHindi,,0,0,0,,{\fad(180,180)}जहाँ अनंत शेषनाग पर\Nयोग-निद्रा में विराजमान थे भगवान विष्णु।
+Dialogue: 0,0:00:20.40,0:00:24.66,ReelHindi,,0,0,0,,{\fad(180,180)}वो थे नारायण…\Nअनंत, शांत और समय से परे।
+Dialogue: 0,0:00:24.66,0:00:30.55,ReelHindi,,0,0,0,,{\fad(180,180)}उनकी योग-निद्रा में छुपी थी\Nएक ऐसी संभावना… जो पूरी सृष्टि का आधार बनी।
+Dialogue: 0,0:00:31.35,0:00:36.41,ReelHindi,,0,0,0,,{\fad(180,180)}फिर एक दिव्य कमल प्रकट हुआ…\Nनारायण की नाभि से निकलता हुआ,\Nअनंत जल के ऊपर उठता हुआ।
+Dialogue: 0,0:00:36.41,0:00:40.55,ReelHindi,,0,0,0,,{\fad(180,180)}जैसे शून्यता के बीच जन्म ले रही हो…\Nएक नई संभावना।
+Dialogue: 0,0:00:41.40,0:00:46.16,ReelHindi,,0,0,0,,{\fad(180,180)}और उस कमल पर प्रकट हुए ब्रह्मा…\Nचार मुखों वाले सृष्टि के रचयिता।
+Dialogue: 0,0:00:46.16,0:00:50.54,ReelHindi,,0,0,0,,{\fad(180,180)}उनके सामने था एक अनंत प्रश्न…\Nऔर एक अनंत ज़िम्मेदारी।
+Dialogue: 0,0:00:51.35,0:00:56.41,ReelHindi,,0,0,0,,{\fad(180,180)}लेकिन ब्रह्मा के मन में सवाल उठा…\Nमैं कौन हूँ? मुझे किसने जन्म दिया?
+Dialogue: 0,0:00:56.41,0:01:00.55,ReelHindi,,0,0,0,,{\fad(180,180)}मेरी उत्पत्ति का रहस्य क्या है?\Nउन्होंने उत्तर खोजना शुरू किया।
+Dialogue: 0,0:01:01.40,0:01:07.67,ReelHindi,,0,0,0,,{\fad(180,180)}पौराणिक वर्णन के अनुसार,\Nब्रह्मा ने सृष्टि की रचना आरंभ की…\Nलोकों, प्रकृति और जीवन का विस्तार हुआ।
+Dialogue: 0,0:01:07.67,0:01:11.51,ReelHindi,,0,0,0,,{\fad(180,180)}अंधकार में अब रोशनी थी।
+Dialogue: 0,0:01:12.40,0:01:17.29,ReelHindi,,0,0,0,,{\fad(180,180)}उनसे प्रकट हुई ऋषियों\Nऔर प्रजापतियों की परंपरा…\Nसृष्टि की कहानी आगे बढ़ने लगी।
+Dialogue: 0,0:01:17.29,0:01:21.46,ReelHindi,,0,0,0,,{\fad(180,180)}ज्ञान, जीवन और चेतना के\Nअनेक रूप सामने आए।
+Dialogue: 0,0:01:22.25,0:01:25.80,ReelHindi,,0,0,0,,{\fad(180,180)}और यही है सृष्टि, स्थिति\Nऔर प्रलय का अनंत चक्र…
+Dialogue: 0,0:01:25.80,0:01:29.64,ReelHindi,,0,0,0,,{\fad(180,180)}क्योंकि हिंदू दर्शन में क्रिएशन\Nसिर्फ़ एक शुरुआत नहीं… एक अनंत यात्रा है।
